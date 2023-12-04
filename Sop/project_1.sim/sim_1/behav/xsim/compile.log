@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/prabr/Documents/cse-2_gr-06/project_1/project_1.srcs/sources_1/new/SOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/prabr/Documents/cse-2_gr-06/project_1/project_1.srcs/sim_1/new/SOP_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SOP_tb

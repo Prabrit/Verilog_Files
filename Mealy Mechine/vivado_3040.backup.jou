@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2023.1.1 (64-bit)
+# SW Build 3900603 on Fri Jun 16 19:31:24 MDT 2023
+# IP Build 3900379 on Sat Jun 17 05:28:05 MDT 2023
+# SharedData Build 3899622 on Fri Jun 16 03:34:24 MDT 2023
+# Start of session at: Thu Nov 30 02:34:36 2023
+# Process ID: 3040
+# Current directory: C:/Users/prabr/Documents/cse-2_gr-06/project_8
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21728 C:\Users\prabr\Documents\cse-2_gr-06\project_8\project_8.xpr
+# Log file: C:/Users/prabr/Documents/cse-2_gr-06/project_8/vivado.log
+# Journal file: C:/Users/prabr/Documents/cse-2_gr-06/project_8\vivado.jou
+# Running On: prabrit, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 16705 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/prabr/Documents/cse-2_gr-06/project_8/project_8.xpr
+update_compile_order -fileset sources_1
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+launch_simulation
+source Mealy_test.tcl
+close_sim

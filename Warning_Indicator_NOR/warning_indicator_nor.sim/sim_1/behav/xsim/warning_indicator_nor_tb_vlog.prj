@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../warning_indicator_nor.srcs/sources_1/new/warning_indicator_nor.v" \
+"../../../../warning_indicator_nor.srcs/sim_1/new/warning_indicator_nor_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

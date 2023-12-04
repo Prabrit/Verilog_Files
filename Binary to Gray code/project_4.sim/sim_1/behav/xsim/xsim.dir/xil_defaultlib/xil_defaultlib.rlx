@@ -1,0 +1,12 @@
+0.7
+2020.2
+Jun 16 2023
+19:55:58
+C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sim_1/new/DecoderSOP_tb.v,1694228019,verilog,,,,DecoderSOP_tb,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sim_1/new/Decoder_tb.v,1693677895,verilog,,,,Decoder_tb,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sim_1/new/Decodersop_test.v,1694639231,verilog,,,,Decodersop_test,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sim_1/new/Graycode_tb.v,1694701554,verilog,,,,Graycode_tb,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sources_1/new/Decoder.v,1693676431,verilog,,C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sources_1/new/Graycode.v,,Decoder,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sources_1/new/DecoderSOP.v,1694639189,verilog,,C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sim_1/new/Decodersop_test.v,,DecoderSOP,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sources_1/new/Graycode.v,1694701045,verilog,,C:/Users/prabr/Documents/cse-2_gr-06/project_4/project_4.srcs/sim_1/new/Graycode_tb.v,,Graycode,,,,,,,,

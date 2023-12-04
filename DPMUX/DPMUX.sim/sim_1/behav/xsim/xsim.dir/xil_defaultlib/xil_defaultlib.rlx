@@ -1,0 +1,9 @@
+0.7
+2020.2
+Jun 16 2023
+19:55:58
+C:/Users/prabr/Documents/cse-2_gr-06/DPMUX/DPMUX.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/DPMUX/DPMUX.srcs/sim_1/new/four_to_one_test.v,1695499648,verilog,,,,four_to_one_test,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/DPMUX/DPMUX.srcs/sim_1/new/two_to_one_test.v,1695502093,verilog,,,,two_to_one_test,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/DPMUX/DPMUX.srcs/sources_1/new/four_to_one_mux.v,1695498808,verilog,,C:/Users/prabr/Documents/cse-2_gr-06/DPMUX/DPMUX.srcs/sources_1/new/two_to_one_mux.v,,four_to_one_mux,,,,,,,,
+C:/Users/prabr/Documents/cse-2_gr-06/DPMUX/DPMUX.srcs/sources_1/new/two_to_one_mux.v,1695498632,verilog,,C:/Users/prabr/Documents/cse-2_gr-06/DPMUX/DPMUX.srcs/sim_1/new/two_to_one_test.v,,two_to_one_mux,,,,,,,,
